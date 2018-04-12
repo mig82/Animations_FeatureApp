@@ -1,0 +1,23 @@
+{
+    "AS_Button_b121a05d7bbd4464bd0d688f34f6ee28": {
+        "id": "AS_Button_b121a05d7bbd4464bd0d688f34f6ee28",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBGColor",
+            "type": "forms",
+            "platform": null,
+            "KUID": "db5c849bd9af4126be260006baed226b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_f0e1527917304e4d88fb3d73e63159e5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.startAnimation();",
+            "callbackType": null
+        }]
+    }
+}

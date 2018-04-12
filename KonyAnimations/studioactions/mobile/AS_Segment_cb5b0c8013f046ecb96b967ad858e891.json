@@ -1,0 +1,30 @@
+{
+    "AS_Segment_cb5b0c8013f046ecb96b967ad858e891": {
+        "id": "AS_Segment_cb5b0c8013f046ecb96b967ad858e891",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmAffineTransformations",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e72391081b7140868126b44de372a5cd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__bbb81687fad34045a8ee98d48611aba8",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.featureSelected();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

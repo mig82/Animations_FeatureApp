@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_h8b993e0615947b6a31f7c4cae2ce178": {
+        "id": "AS_FlexContainer_h8b993e0615947b6a31f7c4cae2ce178",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmKeyFrameAnimations",
+            "type": "forms",
+            "platform": "",
+            "KUID": "da2b0f088be340f2949490a241b3debc"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

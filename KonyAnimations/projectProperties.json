@@ -1,0 +1,205 @@
+{
+    "appidkey": "KonyAnimations",
+    "mwaddrkey": "",
+    "isNewAppWithRespectToAndroidPackageName": "",
+    "defaulttheme": "defaultTheme",
+    "apppackagekey": "",
+    "appaddrkey": "",
+    "nativeContainerProperties": {
+        "isModified": false,
+        "isEnableJSContainer": true,
+        "isEnableJSContainerAndroid": true,
+        "isEnableJSContaineriOS": true
+    },
+    "appnamekey": "KonyAnimations",
+    "currentgaversion": "8.1.9",
+    "appversionkey": "1.0.0",
+    "project.type": "js",
+    "startupformkey": "d90a2bb146b7492abe8689606714cc9f",
+    "enableCustomData": false,
+    "vendornamekey": "KonyLabs",
+    "createdgaversion": "8.1.9",
+    "konyVizVersion": "8.1.9",
+    "isDpScaleFactor": true,
+    "isMVC": true,
+    "referenceWidth": "375",
+    "winmobileguidkey": "",
+    "APPLICATION_THEME": "default",
+    "build": "debug",
+    "mastersProperties": {
+        "mastersVersion": "2.0.0"
+    },
+    "appmenu": {
+        "tablet": {
+            "data": [
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "f62433f6b3f3472bb726966a3205bcd3",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "title": "Item 1"
+                },
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "d5fd40f0267849b3a55c5f98d8cfe3f0",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "title": "Item 2"
+                },
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "e516dbcd6fc447f4a869c200f77e5c4f",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "title": "Item 3"
+                },
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "ebf860d59e93425bbab255f4c7dc8cee",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "desktop": {
+            "data": [
+                {
+                    "kuid": "da1300fefc7a4ba6aae2fa9676a89747",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "title": "Item 1"
+                },
+                {
+                    "kuid": "gb6e2051a4a2489cb8881538dfe10baf",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "title": "Item 2"
+                },
+                {
+                    "kuid": "da05295e6a564166a3a9373fab153849",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "title": "Item 3"
+                },
+                {
+                    "kuid": "d1de021ab1c2405f8c1c051e3d529ce2",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "focusskin": null,
+        "osVersion": "iOS7",
+        "wType": "Appmenu",
+        "focusSkin": null,
+        "mobile": {
+            "data": [
+                {
+                    "kuid": "j23f004b1d8a466684e584e24aaec218",
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "title": "Item 1"
+                },
+                {
+                    "kuid": "f0ba93b4286a4ff8802c0afdb44a92f4",
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "title": "Item 2"
+                },
+                {
+                    "kuid": "f7fbe55a1bf24d2dac8a9756d33aaa39",
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "title": "Item 3"
+                },
+                {
+                    "kuid": "c8ae74273dd644c5b418dcbd9cd9716c",
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "skin": null,
+        "osPlatform": ""
+    },
+    "project_version": "sprint30",
+    "mwportkey": "",
+    "category": "app",
+    "createdVizVersion": "8.1.9",
+    "mwhttpsportkey": "",
+    "accountCloudGuid": "699fffa6-b10d-4426-bdad-cfd74e265ce5",
+    "projectCloudGuid": "21b47e7f-7c6e-4045-8085-1f2f304ae6bc",
+    "prototype": {
+        "createdOn": "2018-03-29T03:46:08.052Z",
+        "createdById": "8b8abb05-9933-4928-8ad3-967c96598584",
+        "createdBy": "Hajimalung Baba",
+        "shareGuid": "M3S18",
+        "resourceId": "ff371732-3bce-4ba2-b1e0-2252bcbade5c",
+        "PublishMode": "public"
+    },
+    "defaultlocalekey": "en_US",
+    "export.type": "studioviz"
+}

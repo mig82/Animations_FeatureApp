@@ -1,0 +1,24 @@
+{
+    "AS_Button_g3cca9a0859843779ca1f24be3a21ee8": {
+        "id": "AS_Button_g3cca9a0859843779ca1f24be3a21ee8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAffineTransformations",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e72391081b7140868126b44de372a5cd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b111de2e166241f9a789bf785639abc6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var ntf = new kony.mvc.Navigation(\"frmTranslate\");\n    ntf.navigate(2);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

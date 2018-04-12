@@ -1,0 +1,42 @@
+<properties>
+    <attributes name="appidkey" value="KonyAnimations"/>
+    <attributes name="mwaddrkey" value="10.0.75.1"/>
+    <attributes name="iospopuptransitioncorrection" value="true"/>
+    <attributes name="isNewAppWithRespectToAndroidPackageName" value="true"/>
+    <attributes name="iphonebundleversionkey" value="1.0"/>
+    <attributes name="iosrespectimagesizecorrection" value="true"/>
+    <attributes name="ioscheckboxcorrection" value="true"/>
+    <attributes name="apppackagekey" value="com.orgname.KonyAnimations"/>
+    <attributes name="winmangotiletitlekey" value="KonyAnimations"/>
+    <attributes name="andtargetsdkkey" value="4.0 (14)"/>
+    <attributes name="win8displaynamekey" value="KonyAnimations"/>
+    <attributes name="android_allowselfsignedcertificates" value="None"/>
+    <attributes name="iphonebundleidentifierkey" value="com.kony.KonyAnimations"/>
+    <attributes name="appnamekey" value="KonyAnimations"/>
+    <attributes name="currentgaversion" value="8.1.8.v201802071535"/>
+    <attributes name="appversionkey" value="1.0.0"/>
+    <attributes name="project.type" value="js"/>
+    <attributes name="sessionmanager" value="Http Session Manager"/>
+    <attributes name="vendornamekey" value="KonyLabs"/>
+    <attributes name="appversioncode" value="1"/>
+    <attributes name="createdgaversion" value="8.1.9"/>
+    <attributes name="isDpScaleFactor" value="true"/>
+    <attributes name="iostextboxpaddingcorrection" value="true"/>
+    <attributes name="win6xj2meonlysupported" value="false"/>
+    <attributes name="wp10displayname" value="KonyAnimations"/>
+    <attributes name="referenceWidth" value="375"/>
+    <attributes name="build" value="debug"/>
+    <attributes name="studiovizproject" value="true"/>
+    <attributes name="marginsincludedinwidgetcontainerweight" value="true"/>
+    <attributes name="mwportkey" value="80"/>
+    <attributes name="mwhttpsportkey" value="443"/>
+    <attributes name="APPLICATION_THEME" value="default"/>
+    <attributes name="SELECTED_THEME" value="default"/>
+    <attributes name="lastmodifiedtime" value="0"/>
+    <attributes name="Server side mobile web" value="false"/>
+    <attributes name="cloud_url" value="https://mobilefabric-demo.konycloud.com"/>
+    <attributes name="cloud_env_name" value="Kony Cloud MobileFabric-MobileFabric"/>
+    <attributes name="cloud_env_GUID" value="f624671f-9244-42e8-a143-809a3e0e7aaf"/>
+    <attributes name="cloud_account_id" value="100003520"/>
+    <attributes name="cloud_account_guid" value="047da162-d5b8-4088-af89-0f280b71528e"/>
+</properties>

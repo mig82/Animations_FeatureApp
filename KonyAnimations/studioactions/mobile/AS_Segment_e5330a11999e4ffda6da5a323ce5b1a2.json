@@ -1,0 +1,30 @@
+{
+    "AS_Segment_e5330a11999e4ffda6da5a323ce5b1a2": {
+        "id": "AS_Segment_e5330a11999e4ffda6da5a323ce5b1a2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmLanding",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d90a2bb146b7492abe8689606714cc9f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__aca5bce6a3e340c9805a6bb9729f7e28",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.featureSelected();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
