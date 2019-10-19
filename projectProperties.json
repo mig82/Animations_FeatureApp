@@ -1,0 +1,488 @@
+{
+    "APPLICATION_THEME": "default",
+    "SELECTED_THEME": "default",
+    "Server side mobile web": "false",
+    "accountCloudGuid": "699fffa6-b10d-4426-bdad-cfd74e265ce5",
+    "android_allowselfsignedcertificates": "None",
+    "andtargetsdkkey": "4.2 (17)",
+    "appaddrkey": "",
+    "appidkey": "KonyAnimations",
+    "appmenu": {
+        "desktop": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "da1300fefc7a4ba6aae2fa9676a89747",
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "gb6e2051a4a2489cb8881538dfe10baf",
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "da05295e6a564166a3a9373fab153849",
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "d1de021ab1c2405f8c1c051e3d529ce2",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "focusSkin": null,
+        "focusskin": null,
+        "mobile": {
+            "data": [
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "j23f004b1d8a466684e584e24aaec218",
+                    "title": "Item 1"
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "f0ba93b4286a4ff8802c0afdb44a92f4",
+                    "title": "Item 2"
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "f7fbe55a1bf24d2dac8a9756d33aaa39",
+                    "title": "Item 3"
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "c8ae74273dd644c5b418dcbd9cd9716c",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "osPlatform": "",
+        "osVersion": "iOS7",
+        "skin": null,
+        "tablet": {
+            "data": [
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "f62433f6b3f3472bb726966a3205bcd3",
+                    "title": "Item 1",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "d5fd40f0267849b3a55c5f98d8cfe3f0",
+                    "title": "Item 2",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "e516dbcd6fc447f4a869c200f77e5c4f",
+                    "title": "Item 3",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "ebf860d59e93425bbab255f4c7dc8cee",
+                    "title": "Item 4",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                }
+            ]
+        },
+        "wType": "Appmenu"
+    },
+    "appnamekey": "KonyAnimations",
+    "apppackagekey": "com.orgname.KonyAnimations",
+    "appversioncode": "1",
+    "appversionkey": "1.0.0",
+    "build": "debug",
+    "category": "app",
+    "cloud_account_guid": "387e22cf-1102-4089-bfdb-4e1b7aceb1b2",
+    "cloud_account_id": "100003520",
+    "cloud_env_GUID": "f624671f-9244-42e8-a143-809a3e0e7aaf",
+    "cloud_env_name": "Kony Cloud MobileFabric-MobileFabric",
+    "cloud_url": "https://mobilefabric-demo.konycloud.com",
+    "createdVizVersion": "8.1.9",
+    "createdgaversion": "8.1.9",
+    "currentgaversion": "8.4.43",
+    "defaultlocalekey": "en_US",
+    "defaulttheme": "defaultTheme",
+    "enableCustomData": false,
+    "export.type": "studioviz",
+    "ioscheckboxcorrection": "true",
+    "iospopuptransitioncorrection": "true",
+    "iosrespectimagesizecorrection": "true",
+    "iostextboxpaddingcorrection": "true",
+    "iphonebundleidentifierkey": "com.kony.KonyAnimations",
+    "iphonebundleversionkey": "1.0",
+    "isDeveloperMode": "false",
+    "isDpScaleFactor": true,
+    "isI18nConfigEnabled": true,
+    "isMVC": true,
+    "isNewAppWithRespectToAndroidPackageName": "",
+    "konyVizVersion": "8.4.43",
+    "lastmodifiedtime": "0",
+    "marginsincludedinwidgetcontainerweight": "true",
+    "mastersProperties": {
+        "mastersVersion": "2.0.0"
+    },
+    "mwaddrkey": "",
+    "mwhttpsportkey": "",
+    "mwportkey": "",
+    "nativeContainerProperties": {
+        "isEnableJSContainer": true,
+        "isEnableJSContainerAndroid": true,
+        "isEnableJSContaineriOS": true
+    },
+    "permissions": {
+        "android": {
+            "ACCESS_CHECKIN_PROPERTIES": "false",
+            "ACCESS_COARSE_LOCATION": "false",
+            "ACCESS_FINE_LOCATION": "false",
+            "ACCESS_LOCATION_EXTRA_COMMANDS": "false",
+            "ACCESS_MOCK_LOCATION": "false",
+            "ACCESS_NETWORK_STATE": "true",
+            "ACCESS_SURFACE_FLINGER": "false",
+            "ACCESS_WIFI_STATE": "false",
+            "ACCOUNT_MANAGER": "false",
+            "AUTHENTICATE_ACCOUNTS": "false",
+            "BATTERY_STATS": "false",
+            "BIND_APPWIDGET": "false",
+            "BIND_DEVICE_ADMIN": "false",
+            "BIND_INPUT_METHOD": "false",
+            "BIND_REMOTEVIEWS": "false",
+            "BIND_WALLPAPER": "false",
+            "BLUETOOTH": "false",
+            "BLUETOOTH_ADMIN": "false",
+            "BRICK": "false",
+            "BROADCAST_PACKAGE_REMOVED": "false",
+            "BROADCAST_SMS": "false",
+            "BROADCAST_STICKY": "false",
+            "BROADCAST_WAP_PUSH": "false",
+            "CALL_PHONE": "false",
+            "CALL_PRIVILEGED": "false",
+            "CAMERA": "false",
+            "CHANGE_COMPONENT_ENABLED_STATE": "false",
+            "CHANGE_CONFIGURATION": "false",
+            "CHANGE_NETWORK_STATE": "false",
+            "CHANGE_WIFI_MULTICAST_STATE": "false",
+            "CHANGE_WIFI_STATE": "false",
+            "CLEAR_APP_CACHE": "false",
+            "CLEAR_APP_USER_DATA": "false",
+            "CONTROL_LOCATION_UPDATES": "false",
+            "DELETE_CACHE_FILES": "false",
+            "DELETE_PACKAGES": "false",
+            "DEVICE_POWER": "false",
+            "DIAGNOSTIC": "false",
+            "DISABLE_KEYGUARD": "false",
+            "DUMP": "false",
+            "EXPAND_STATUS_BAR": "false",
+            "FACTORY_TEST": "false",
+            "FLASHLIGHT": "false",
+            "FORCE_BACK": "false",
+            "GET_ACCOUNTS": "false",
+            "GET_PACKAGE_SIZE": "false",
+            "GET_TASKS": "false",
+            "GLOBAL_SEARCH": "false",
+            "HARDWARE_TEST": "false",
+            "INJECT_EVENTS": "false",
+            "INSTALL_LOCATION_PROVIDER": "false",
+            "INSTALL_PACKAGES": "false",
+            "INTERNAL_SYSTEM_WINDOW": "false",
+            "INTERNET": "true",
+            "KILL_BACKGROUND_PROCESSES": "false",
+            "MANAGE_ACCOUNTS": "false",
+            "MANAGE_APP_TOKENS": "false",
+            "MASTER_CLEAR": "false",
+            "MODIFY_AUDIO_SETTINGS": "false",
+            "MODIFY_PHONE_STATE": "false",
+            "MOUNT_FORMAT_FILESYSTEMS": "false",
+            "MOUNT_UNMOUNT_FILESYSTEMS": "false",
+            "NFC": "false",
+            "PERSISTENT_ACTIVITY": "false",
+            "PROCESS_OUTGOING_CALLS": "false",
+            "READ_CALENDAR": "false",
+            "READ_CONTACTS": "false",
+            "READ_FRAME_BUFFER": "false",
+            "READ_HISTORY_BOOKMARKS": "false",
+            "READ_INPUT_STATE": "false",
+            "READ_LOGS": "false",
+            "READ_PHONE_STATE": "true",
+            "READ_SMS": "false",
+            "READ_SYNC_SETTINGS": "false",
+            "READ_SYNC_STATS": "false",
+            "REBOOT": "false",
+            "RECEIVE_BOOT_COMPLETED": "false",
+            "RECEIVE_MMS": "false",
+            "RECEIVE_SMS": "false",
+            "RECEIVE_WAP_PUSH": "false",
+            "RECORD_AUDIO": "false",
+            "REORDER_TASKS": "false",
+            "RESTART_PACKAGES": "false",
+            "SEND_SMS": "false",
+            "SET_ACTIVITY_WATCHER": "false",
+            "SET_ALARM": "false",
+            "SET_ALWAYS_FINISH": "false",
+            "SET_ANIMATION_SCALE": "false",
+            "SET_DEBUG_APP": "false",
+            "SET_ORIENTATION": "false",
+            "SET_PREFERRED_APPLICATIONS": "false",
+            "SET_PROCESS_LIMIT": "false",
+            "SET_TIME": "false",
+            "SET_TIME_ZONE": "false",
+            "SET_WALLPAPER": "false",
+            "SET_WALLPAPER_HINTS": "false",
+            "SIGNAL_PERSISTENT_PROCESSES": "false",
+            "STATUS_BAR": "false",
+            "SUBSCRIBED_FEEDS_READ": "false",
+            "SUBSCRIBED_FEEDS_WRITE": "false",
+            "SYSTEM_ALERT_WINDOW": "false",
+            "UPDATE_DEVICE_STATS": "false",
+            "USE_CREDENTIALS": "false",
+            "USE_FINGERPRINT": "false",
+            "USE_SIP": "false",
+            "VIBRATE": "false",
+            "WAKE_LOCK": "false",
+            "WRITE_APN_SETTINGS": "false",
+            "WRITE_CALENDAR": "false",
+            "WRITE_CONTACTS": "false",
+            "WRITE_EXTERNAL_STORAGE": "false",
+            "WRITE_GSERVICES": "false",
+            "WRITE_HISTORY_BOOKMARKS": "false",
+            "WRITE_SECURE_SETTINGS": "false",
+            "WRITE_SETTINGS": "false",
+            "WRITE_SMS": "false",
+            "WRITE_SYNC_SETTINGS": "false"
+        },
+        "androidwear": {
+            "ACCESS_CHECKIN_PROPERTIES": "false",
+            "ACCESS_COARSE_LOCATION": "false",
+            "ACCESS_FINE_LOCATION": "false",
+            "ACCESS_LOCATION_EXTRA_COMMANDS": "false",
+            "ACCESS_MOCK_LOCATION": "false",
+            "ACCESS_NETWORK_STATE": "true",
+            "ACCESS_SURFACE_FLINGER": "false",
+            "ACCESS_WIFI_STATE": "false",
+            "ACCOUNT_MANAGER": "false",
+            "AUTHENTICATE_ACCOUNTS": "false",
+            "BATTERY_STATS": "false",
+            "BIND_APPWIDGET": "false",
+            "BIND_DEVICE_ADMIN": "false",
+            "BIND_INPUT_METHOD": "false",
+            "BIND_REMOTEVIEWS": "false",
+            "BIND_WALLPAPER": "false",
+            "BLUETOOTH": "false",
+            "BLUETOOTH_ADMIN": "false",
+            "BRICK": "false",
+            "BROADCAST_PACKAGE_REMOVED": "false",
+            "BROADCAST_SMS": "false",
+            "BROADCAST_STICKY": "false",
+            "BROADCAST_WAP_PUSH": "false",
+            "CALL_PHONE": "false",
+            "CALL_PRIVILEGED": "false",
+            "CAMERA": "false",
+            "CHANGE_COMPONENT_ENABLED_STATE": "false",
+            "CHANGE_CONFIGURATION": "false",
+            "CHANGE_NETWORK_STATE": "false",
+            "CHANGE_WIFI_MULTICAST_STATE": "false",
+            "CHANGE_WIFI_STATE": "false",
+            "CLEAR_APP_CACHE": "false",
+            "CLEAR_APP_USER_DATA": "false",
+            "CONTROL_LOCATION_UPDATES": "false",
+            "DELETE_CACHE_FILES": "false",
+            "DELETE_PACKAGES": "false",
+            "DEVICE_POWER": "false",
+            "DIAGNOSTIC": "false",
+            "DISABLE_KEYGUARD": "false",
+            "DUMP": "false",
+            "EXPAND_STATUS_BAR": "false",
+            "FACTORY_TEST": "false",
+            "FLASHLIGHT": "false",
+            "FORCE_BACK": "false",
+            "GET_ACCOUNTS": "false",
+            "GET_PACKAGE_SIZE": "false",
+            "GET_TASKS": "false",
+            "GLOBAL_SEARCH": "false",
+            "HARDWARE_TEST": "false",
+            "INJECT_EVENTS": "false",
+            "INSTALL_LOCATION_PROVIDER": "false",
+            "INSTALL_PACKAGES": "false",
+            "INTERNAL_SYSTEM_WINDOW": "false",
+            "INTERNET": "true",
+            "KILL_BACKGROUND_PROCESSES": "false",
+            "MANAGE_ACCOUNTS": "false",
+            "MANAGE_APP_TOKENS": "false",
+            "MASTER_CLEAR": "false",
+            "MODIFY_AUDIO_SETTINGS": "false",
+            "MODIFY_PHONE_STATE": "false",
+            "MOUNT_FORMAT_FILESYSTEMS": "false",
+            "MOUNT_UNMOUNT_FILESYSTEMS": "false",
+            "NFC": "false",
+            "PERSISTENT_ACTIVITY": "false",
+            "PROCESS_OUTGOING_CALLS": "false",
+            "READ_CALENDAR": "false",
+            "READ_CONTACTS": "false",
+            "READ_FRAME_BUFFER": "false",
+            "READ_HISTORY_BOOKMARKS": "false",
+            "READ_INPUT_STATE": "false",
+            "READ_LOGS": "false",
+            "READ_PHONE_STATE": "true",
+            "READ_SMS": "false",
+            "READ_SYNC_SETTINGS": "false",
+            "READ_SYNC_STATS": "false",
+            "REBOOT": "false",
+            "RECEIVE_BOOT_COMPLETED": "false",
+            "RECEIVE_MMS": "false",
+            "RECEIVE_SMS": "false",
+            "RECEIVE_WAP_PUSH": "false",
+            "RECORD_AUDIO": "false",
+            "REORDER_TASKS": "false",
+            "RESTART_PACKAGES": "false",
+            "SEND_SMS": "false",
+            "SET_ACTIVITY_WATCHER": "false",
+            "SET_ALARM": "false",
+            "SET_ALWAYS_FINISH": "false",
+            "SET_ANIMATION_SCALE": "false",
+            "SET_DEBUG_APP": "false",
+            "SET_ORIENTATION": "false",
+            "SET_PREFERRED_APPLICATIONS": "false",
+            "SET_PROCESS_LIMIT": "false",
+            "SET_TIME": "false",
+            "SET_TIME_ZONE": "false",
+            "SET_WALLPAPER": "false",
+            "SET_WALLPAPER_HINTS": "false",
+            "SIGNAL_PERSISTENT_PROCESSES": "false",
+            "STATUS_BAR": "false",
+            "SUBSCRIBED_FEEDS_READ": "false",
+            "SUBSCRIBED_FEEDS_WRITE": "false",
+            "SYSTEM_ALERT_WINDOW": "false",
+            "UPDATE_DEVICE_STATS": "false",
+            "USE_CREDENTIALS": "false",
+            "USE_FINGERPRINT": "false",
+            "USE_SIP": "false",
+            "VIBRATE": "false",
+            "WAKE_LOCK": "false",
+            "WRITE_APN_SETTINGS": "false",
+            "WRITE_CALENDAR": "false",
+            "WRITE_CONTACTS": "false",
+            "WRITE_EXTERNAL_STORAGE": "false",
+            "WRITE_GSERVICES": "false",
+            "WRITE_HISTORY_BOOKMARKS": "false",
+            "WRITE_SECURE_SETTINGS": "false",
+            "WRITE_SETTINGS": "false",
+            "WRITE_SMS": "false",
+            "WRITE_SYNC_SETTINGS": "false"
+        }
+    },
+    "project.type": "js",
+    "projectCloudGuid": "21b47e7f-7c6e-4045-8085-1f2f304ae6bc",
+    "project_version": "sprint34",
+    "prototype": {
+        "PublishMode": "public",
+        "createdBy": "Hajimalung Baba",
+        "createdById": "8b8abb05-9933-4928-8ad3-967c96598584",
+        "createdOn": "2018-03-29T03:46:08.052Z",
+        "resourceId": "ff371732-3bce-4ba2-b1e0-2252bcbade5c",
+        "shareGuid": "M3S18"
+    },
+    "referenceWidth": "375",
+    "sessionmanager": "Http Session Manager",
+    "startupformkey": "d90a2bb146b7492abe8689606714cc9f",
+    "studiovizproject": "true",
+    "tags": {
+        "android": {
+            "activity_child_tags": "",
+            "activityattrs": "",
+            "andapplicationattrs": "",
+            "andapplicationtags": "",
+            "andmanifesttags": "",
+            "manifest_tag_attrs": ""
+        },
+        "androidwear": {
+            "activity_child_tags_andwear": "",
+            "activityattrs_andwear": "",
+            "andwearapplicationattrs": "",
+            "andwearapplicationtags": "",
+            "andwearmanifesttags": "",
+            "manifest_tag_attrs_andwear": ""
+        }
+    },
+    "vendornamekey": "KonyLabs",
+    "win6xj2meonlysupported": "false",
+    "win8displaynamekey": "KonyAnimations",
+    "winmangotiletitlekey": "KonyAnimations",
+    "winmobileguidkey": "",
+    "wp10displayname": "KonyAnimations"
+}
